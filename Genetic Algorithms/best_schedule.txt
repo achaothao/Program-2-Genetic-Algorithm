@@ -1,0 +1,50 @@
+Activity Name: SLA101A
+Facilitator: Banks
+Room: Roman 201
+Time: 2PM
+
+Activity Name: SLA101B
+Facilitator: Banks
+Room: Beach 201
+Time: 10AM
+
+Activity Name: SLA191A
+Facilitator: Zeldin
+Room: Beach 301
+Time: 11AM
+
+Activity Name: SLA191B
+Facilitator: Banks
+Room: Roman 201
+Time: 3PM
+
+Activity Name: SLA201
+Facilitator: Glen
+Room: Loft 206
+Time: 11AM
+
+Activity Name: SLA291
+Facilitator: Singer
+Room: Beach 301
+Time: 10AM
+
+Activity Name: SLA303
+Facilitator: Zeldin
+Room: Frank 119
+Time: 10AM
+
+Activity Name: SLA304
+Facilitator: Glen
+Room: Slater 003
+Time: 3PM
+
+Activity Name: SLA394
+Facilitator: Tyler
+Room: Beach 201
+Time: 3PM
+
+Activity Name: SLA449
+Facilitator: Singer
+Room: Loft 206
+Time: 1PM
+
